@@ -1,4 +1,4 @@
-// Leet code Solutions in Python
+// Leet code Solutions (Medium) in Python
 def rotate(self, matrix: List[List[int]]) -> None:
         n = len(matrix)
         columns = []
